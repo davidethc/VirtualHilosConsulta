@@ -22,7 +22,8 @@ Los virtual threads (también conocidos como "fibers") son hilos de ejecución g
 
 ## 3. Bloqueo y Escalabilidad
 
-Cuando un virtual thread hace algo que normalmente detendría a un hilo tradicional—como esperar datos de una red o disco—la JVM retira ese hilo liviano de la tarea y usa el hilo físico (carrier) para otro virtual thread que esté listo para trabajar. Es como si tuvieras un grupo de obreros (carrier threads) y muchos ayudantes (virtual threads): cuando un ayudante está esperando herramientas, el obrero puede atender a otro ayudante que sí tiene trabajo, en lugar de quedarse parado.
+Cuando un virtual thread hace algo que normalmente detendría a un hilo tradicional—como esperar datos de una red o disco—la JVM retira ese hilo liviano de la tarea y usa el hilo físico (carrier) para otro virtual thread que esté listo para trabajar.
+
 
 Este enfoque evita que los hilos queden inactivos bloqueando recursos y permite que tu aplicación maneje muchas más tareas al mismo tiempo sin consumir más memoria o CPU de la necesaria.
 
