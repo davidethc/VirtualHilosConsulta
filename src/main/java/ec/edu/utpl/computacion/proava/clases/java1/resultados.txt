@@ -1,0 +1,137 @@
+http://enwww.festivaldeloja.com -> ERROR: enwww.festivaldeloja.com
+http://bit.ly/2yzXx7y -> 0 enlaces internos
+http://goo.gl/QVkTnz -> 0 enlaces internos
+http://m.facebook.com/SiguemeLojaOficial -> 0 enlaces internos
+http://bit.ly/2BdApxz -> 0 enlaces internos
+http://youtu.be/lps86vfjN68?a -> 0 enlaces internos
+http://bit.ly/2z4tODk -> 0 enlaces internos
+http://bit.ly/2qx2Pwo -> 0 enlaces internos
+http://bit.ly/2OQAA5w -> 0 enlaces internos
+http://bit.ly/2OxSd9Y -> 0 enlaces internos
+http://bit.ly/2zfPnkZ -> 0 enlaces internos
+http://bit.ly/2Dv9te8 -> 0 enlaces internos
+http://youtu.be/f5EAAi2hwv4?a -> 0 enlaces internos
+http://bit.ly/2FqBYMN -> 0 enlaces internos
+http://bit.ly/2PBXJ0w -> 0 enlaces internos
+http://ow.ly/KCDg30mCr9j -> 0 enlaces internos
+http://bit.ly/festivalartesvivas -> ERROR: www.eltiempo.com.ec
+http://www.corape.org.ec/loja-autoridades-de-gobierno-participaron-en-el-festival-de-artes-vivas-loja-2018/ -> 0 enlaces internos
+http://festivaldeloja.com -> ERROR: Server returned HTTP response code: 403 for URL: http://festivaldeloja.com
+http://www.festivaldeloja.com -> ERROR: Server returned HTTP response code: 403 for URL: http://www.festivaldeloja.com
+http://bit.ly/2fT0oBP -> ERROR: Server returned HTTP response code: 403 for URL: http://www.festivaldeloja.com/
+http://bit.ly/2RMip2G -> ERROR: Server returned HTTP response code: 403 for URL: http://www.festivaldeloja.com/
+http://ecuadorinmediato.com/eiradio/ -> ERROR: Server returned HTTP response code: 500 for URL: http://ecuadorinmediato.com/eiradio/
+https://bit.ly/2B4Zrik -> 0 enlaces internos
+https://bit.ly/2Kar1xC -> 0 enlaces internos
+https://www.elcomercio.com/tendencias/grupo-colmenita-loja-artes-vivas.html -> ERROR: Server returned HTTP response code: 403 for URL: https://www.elcomercio.com/tendencias/grupo-colmenita-loja-artes-vivas.html
+https://www.elcomercio.com/tendencias/loja-fiesta-escenica-festival-artes.html -> ERROR: Server returned HTTP response code: 403 for URL: https://www.elcomercio.com/tendencias/loja-fiesta-escenica-festival-artes.html
+http://bit.ly/ArtesVivas- -> 0 enlaces internos
+https://vimeo.com/277739477 -> 0 enlaces internos
+https://goo.gl/6NJiT8 -> 3 enlaces internos
+https://goo.gl/Hj6quF -> 3 enlaces internos
+https://www.culturaypatrimonio.gob.ec/gypsy-express-fue-la-obra-inaugural-del-festival-internacional-de-artes-viva-loja-2018/ -> ERROR: Server returned HTTP response code: 520 for URL: https://www.culturaypatrimonio.gob.ec/gypsy-express-fue-la-obra-inaugural-del-festival-internacional-de-artes-viva-loja-2018/
+https://www.culturaypatrimonio.gob.ec/la-colmenita-de-cuba-prendio-de-son-y-guaracha-el-fiavl/ -> ERROR: Server returned HTTP response code: 520 for URL: https://www.culturaypatrimonio.gob.ec/la-colmenita-de-cuba-prendio-de-son-y-guaracha-el-fiavl/
+https://www.culturaypatrimonio.gob.ec/jovenes-aprenden-a-construir-titeres-en-el-fiavl-2018/ -> ERROR: Server returned HTTP response code: 520 for URL: https://www.culturaypatrimonio.gob.ec/jovenes-aprenden-a-construir-titeres-en-el-fiavl-2018/
+http://bit.ly/2T8acY0 -> ERROR: Server returned HTTP response code: 400 for URL: http://www.nodalcultura.am/2018/11/ecuador-festival-de-artes-vivas-de-loja/
+https://goo.gl/c7eLwS -> 3 enlaces internos
+https://goo.gl/x11DBf -> 3 enlaces internos
+https://goo.gl/3jdAzk -> 3 enlaces internos
+https://goo.gl/hL3kuq -> 3 enlaces internos
+https://goo.gl/St2cQn -> 3 enlaces internos
+https://goo.gl/Kk2Jrn -> 3 enlaces internos
+http://bit.ly/2QyXIXX -> ERROR: Server returned HTTP response code: 500 for URL: http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818845613&umt=teatro_cenit_ya_tiene_a_cantoras_afroecuatorianas_para_espectaculo&fbclid=IwAR1Z-aSuKxDgArNnefycdZtUcjNosA2vnmcv3c702VMJd1qbVlC6q_30pSo
+https://goo.gl/RFCXC4 -> 3 enlaces internos
+https://goo.gl/d38uvo -> 3 enlaces internos
+https://goo.gl/H5ewVW -> 3 enlaces internos
+https://goo.gl/zpTHAh -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/noticias/loja-sigue-de-fiesta-cultural-se-cumplio-con-exito-el-tercer-dia-del-fiavl-2018/
+https://goo.gl/iXgQvh -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/edgar-palacios-y-musicos-del-ecuador/
+https://goo.gl/ZfMqCz -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/programacion-teatro-juvenil/
+https://bit.ly/2TnqtbV -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/premio-al-periodismo-vive-loja-2018/
+https://goo.gl/BXPzrd -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/gabriel-chame/
+https://goo.gl/GQs4uB -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/laura-aris-duo-con-alvaro-esteban/
+https://goo.gl/oKLvds -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/la-fabrica-cuerpo-espacio/
+https://goo.gl/KZV2Gr -> 3 enlaces internos
+https://goo.gl/p6LYjL -> 3 enlaces internos
+https://goo.gl/hbjTp3 -> 3 enlaces internos
+https://goo.gl/WZJ8J1 -> 3 enlaces internos
+https://goo.gl/auaeG5 -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/coproduccion-laura-aris-junto-a-la-compania-nacional-de-danza/
+https://goo.gl/UbcQ1Q -> 3 enlaces internos
+https://twitter.com/ojeda_mariu/status/1062714982977028096 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/ojeda_mariu/status/1062714982977028096
+https://twitter.com/TeatroBenjaminC/status/1063877053286625280 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/TeatroBenjaminC/status/1063877053286625280
+https://twitter.com/ARCSA_CZ7/status/1062409071310094336/photo/1 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/ARCSA_CZ7/status/1062409071310094336/photo/1
+https://twitter.com/cultura_zonal7/status/1063903082185146368 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/cultura_zonal7/status/1063903082185146368
+https://twitter.com/VistoLoja/status/1063582802225102849 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/VistoLoja/status/1063582802225102849
+https://twitter.com/Cultura_Ec/status/1063081000606023680 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/Cultura_Ec/status/1063081000606023680
+https://twitter.com/comunicacionec/status/1063082455941419009 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/comunicacionec/status/1063082455941419009
+https://twitter.com/VistoLoja/status/1062711068940816390 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/VistoLoja/status/1062711068940816390
+https://twitter.com/capturlojaofic1/status/1063898665742491654 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/capturlojaofic1/status/1063898665742491654
+https://twitter.com/FestivalDeLoja/status/1063179182308581376 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/FestivalDeLoja/status/1063179182308581376
+https://twitter.com/EducacionZ7_Ec/status/1063536637244817409 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/EducacionZ7_Ec/status/1063536637244817409
+https://twitter.com/sinfonicaLoja/status/1063164587787407362 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/sinfonicaLoja/status/1063164587787407362
+https://twitter.com/festivaldeloja/status/1063197451882921985 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/festivaldeloja/status/1063197451882921985
+https://twitter.com/teatrobenjaminc/status/1062823093767430144 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/teatrobenjaminc/status/1062823093767430144
+https://goo.gl/rQYWZ2 -> 3 enlaces internos
+https://twitter.com/TurismoEc/status/1062870648152903687 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/TurismoEc/status/1062870648152903687
+https://twitter.com/Cultura_Ec/status/1063164261810212865 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/Cultura_Ec/status/1063164261810212865
+https://twitter.com/MinturZonal7/status/1062863304081768448 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/MinturZonal7/status/1062863304081768448
+https://twitter.com/Cultura_Ec/status/1059507213268643840 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/Cultura_Ec/status/1059507213268643840
+https://twitter.com/LuisCuencaMed/status/1062868248285319169 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/LuisCuencaMed/status/1062868248285319169
+https://twitter.com/festivaldeloja/status/1063966573608820736 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/festivaldeloja/status/1063966573608820736
+https://twitter.com/cultura_ec/status/1063825347563659264 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/cultura_ec/status/1063825347563659264
+https://goo.gl/bsX6Lc -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/escuela-del-festival/#12
+https://goo.gl/poUzFf -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/teatro-la-plaza/
+https://bit.ly/2DwChD5 -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/compania-nacional-de-teatro-de-mexico/
+https://goo.gl/RQRAoN -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/noticias/el-teatro-cenit-ya-tiene-a-sus-cantoras-afroecuatorianas-para-su-espectaculo/
+https://goo.gl/ohEuUF -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/proyecto-mina/
+https://goo.gl/QVkTnz -> 3 enlaces internos
+https://goo.gl/357bc7 -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/programacion-2018/
+https://twitter.com/Cultura_Zonal7/status/1063522692417183746 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/Cultura_Zonal7/status/1063522692417183746
+https://twitter.com/festivaldeloja/status/1063173560104116224 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/festivaldeloja/status/1063173560104116224
+https://twitter.com/PazminoMay/status/1063107355418730496?s=20 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/PazminoMay/status/1063107355418730496?s=20
+https://twitter.com/cultura_ec/status/1063158565395984384 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/cultura_ec/status/1063158565395984384
+https://twitter.com/FestivalDeLoja/status/1059554498329395200 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/FestivalDeLoja/status/1059554498329395200
+https://twitter.com/cultura_ec/status/1063243975635681281 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/cultura_ec/status/1063243975635681281
+https://twitter.com/festivaldeloja/status/1063858786815959040 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/festivaldeloja/status/1063858786815959040
+https://twitter.com/Cultura_Ec/status/1062730108597866496 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/Cultura_Ec/status/1062730108597866496
+https://twitter.com/FestivalDeLoja/status/1056304533951795200 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/FestivalDeLoja/status/1056304533951795200
+https://twitter.com/festivaldeloja/status/1062731538616516608 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/festivaldeloja/status/1062731538616516608
+https://lahora.com.ec/noticia/1102200616/el-fiavl-es-un-motor-que-suscita-el-espiritu#.W-yIUu_p-5Q.twitter -> ERROR: Server returned HTTP response code: 403 for URL: https://www.lahora.com.ec/noticia/1102200616/el-fiavl-es-un-motor-que-suscita-el-espiritu
+https://lahora.com.ec/noticia/1102200613/artes-vivas-se-abre-el-telon#.W-yXVHp2NBA.twitter -> ERROR: Server returned HTTP response code: 403 for URL: https://www.lahora.com.ec/noticia/1102200613/artes-vivas-se-abre-el-telon
+https://twitter.com/Salud_Ec/status/1063163740978364416 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/Salud_Ec/status/1063163740978364416
+https://twitter.com/Telecom_Ec/status/1063173795538599936 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/Telecom_Ec/status/1063173795538599936
+https://twitter.com/MunicipioDeLoja/status/1061127063963361280 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/MunicipioDeLoja/status/1061127063963361280
+https://goo.gl/rxZ4ra -> 3 enlaces internos
+https://twitter.com/FestivalDeLoja/status/1063841045887283200 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/FestivalDeLoja/status/1063841045887283200
+https://bit.ly/2Q0AjBu -> 0 enlaces internos
+https://twitter.com/DarioJaramilloP/status/1064505940664348672 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/DarioJaramilloP/status/1064505940664348672
+https://www.facebook.com/hotelhowardjohnsonlojaecuador/posts/1990626587672048 -> 0 enlaces internos
+https://goo.gl/wquC9G -> 3 enlaces internos
+https://goo.gl/1A6wXZ -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/edgar-palacios-y-musicos-del-ecuador/
+https://twitter.com/festivaldeloja/status/1063255889329696769 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/festivaldeloja/status/1063255889329696769
+https://twitter.com/cultura_ec/status/1063172778088714240 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/cultura_ec/status/1063172778088714240
+https://twitter.com/cultura_ec/status/1063543159479812097 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/cultura_ec/status/1063543159479812097
+https://twitter.com/betjaramillo/status/1060983792389767169 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/betjaramillo/status/1060983792389767169
+https://twitter.com/ComunicacionEc/status/1063082455941419009 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/ComunicacionEc/status/1063082455941419009
+https://twitter.com/plustv25/status/1062373945020768326 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/plustv25/status/1062373945020768326
+https://twitter.com/GabrielaEsPais/status/1063084285668790272?s=20 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/GabrielaEsPais/status/1063084285668790272?s=20
+https://www.facebook.com/srradioec/videos/486819958393929/ -> 0 enlaces internos
+https://twitter.com/FestivalDeLoja/status/1055939539682897920 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/FestivalDeLoja/status/1055939539682897920
+https://goo.gl/srndC4 -> ERROR: Server returned HTTP response code: 403 for URL: https://www.festivaldeloja.com/portfolio_page/yanantin/
+https://www.facebook.com/estosucedelojaoficial/posts/265624874154889 -> 1 enlaces internos
+https://www.facebook.com/story.php?story_fbid=575459329568541&id=100013134367643 -> 1 enlaces internos
+https://www.instagram.com/p/Bp7QRQ0gypz/?utm_source=ig_twitter_share&igshid=10pnbb8r8zy6e -> 77 enlaces internos
+https://ift.tt/2JWLrd7 -> ERROR: https://bitly.ift.tt/2JWLrd7
+https://www.instagram.com/p/BqVfsABgEWn/?utm_source=ig_twitter_share&igshid=1oylnm3q6my08 -> 0 enlaces internos
+https://twitter.com/festivaldeloja/status/1063261562536898562 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/festivaldeloja/status/1063261562536898562
+https://www.instagram.com/p/BqVXRaCAXCkEA3lMEYtVmGFYimiehs8QJvmh5I0/?utm_source=ig_twitter_share&igshid=1udgy2orgy3dr -> 0 enlaces internos
+https://www.facebook.com/story.php?story_fbid=574492216331919&id=100013134367643 -> 1 enlaces internos
+https://www.facebook.com/saragurofm/videos/2195024174156098/ -> 0 enlaces internos
+https://www.facebook.com/permalink.php?story_fbid=623295568088932&id=100012254832618 -> 1 enlaces internos
+https://twitter.com/FestivalDeLoja/status/1063416395508133889 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/FestivalDeLoja/status/1063416395508133889
+https://www.facebook.com/CapturLojaOficial/videos/575116269602847/ -> 2 enlaces internos
+https://www.facebook.com/VistoLoja/videos/261831354521209/ -> 2 enlaces internos
+https://twitter.com/rapereztorresec/status/1063180756195905538 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/rapereztorresec/status/1063180756195905538
+https://twitter.com/UNESCOQuito/status/1062794864969048064 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/UNESCOQuito/status/1062794864969048064
+https://www.eluniverso.com/entretenimiento/2018/11/16/nota/7052412/teatros-calles-vitrinas-artistas-loja -> 5 enlaces internos
+https://www.instagram.com/p/Bp1q6m0lCiI/?utm_source=ig_twitter_share&igshid=1i21zrhx4ozjx -> 77 enlaces internos
+https://twitter.com/FestivalDeLoja/status/1055471372879740928 -> ERROR: Server returned HTTP response code: 400 for URL: https://x.com/FestivalDeLoja/status/1055471372879740928
